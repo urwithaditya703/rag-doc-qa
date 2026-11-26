@@ -1,0 +1,6 @@
+﻿fastapi
+uvicorn
+streamlit
+chromadb
+python-dotenv
+requests
